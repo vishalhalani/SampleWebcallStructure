@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleWebcallStructure</string>
+
+    <string name="error_incorrect_email">Please enter valid email address</string>
+    <string name="empty_email">Please enter email address</string>
+    <string name="error_incorrect_password">Password should be alphanumeric, 8 digits and 1 capital letter</string>
+    <string name="empty_password">Please enter password</string>
+</resources>
